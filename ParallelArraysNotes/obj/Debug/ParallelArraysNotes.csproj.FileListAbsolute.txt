@@ -1,0 +1,7 @@
+c:\users\noeil\source\repos\ParallelArraysNotes\ParallelArraysNotes\bin\Debug\ParallelArraysNotes.exe.config
+c:\users\noeil\source\repos\ParallelArraysNotes\ParallelArraysNotes\bin\Debug\ParallelArraysNotes.exe
+c:\users\noeil\source\repos\ParallelArraysNotes\ParallelArraysNotes\bin\Debug\ParallelArraysNotes.pdb
+c:\users\noeil\source\repos\ParallelArraysNotes\ParallelArraysNotes\obj\Debug\ParallelArraysNotes.csprojResolveAssemblyReference.cache
+c:\users\noeil\source\repos\ParallelArraysNotes\ParallelArraysNotes\obj\Debug\ParallelArraysNotes.csproj.CoreCompileInputs.cache
+c:\users\noeil\source\repos\ParallelArraysNotes\ParallelArraysNotes\obj\Debug\ParallelArraysNotes.exe
+c:\users\noeil\source\repos\ParallelArraysNotes\ParallelArraysNotes\obj\Debug\ParallelArraysNotes.pdb
